@@ -49,6 +49,8 @@ Arduino IDE
 
 Before operation, wire an HX711/Load Cell system to an Arduino Nano. Use the Calibration Code to determine a calibration factor for the load cell.
 
+Once the circuits are set up, plug in the home base circuit to the computer. This circuit will send action codes via radio signal to the thrust stand circuit.
+
 The following code in TS_V20_1 begins Standby phase.
 
 ```C++
