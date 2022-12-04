@@ -135,5 +135,6 @@ The load cell will now be set to the calibration factor and thrust data will be 
 
 ## Data
 
-The following data was run on a C6 solid propellant motor. Thrust curve data was input to a MATLAB document. This experimental curve can be compared to the reference curve from thrustcurve.org for an Estes C6 motor.
+The following data was run on a C6 solid propellant motor. Thrust curve data was input to a MATLAB document. This experimental curve can be compared to the reference curve from [thrustcurve.org](https://www.thrustcurve.org/motors/Estes/C6/) for an Estes C6 motor. Comparing the two curves shows that the data collected below is reasonably accurate.
 
+![](Images/C6_Experimental_Curve.png)
