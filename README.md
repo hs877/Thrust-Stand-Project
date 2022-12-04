@@ -13,7 +13,7 @@ The goal of this project is to develop a modular thrust stand capable of recordi
 
 The project covers the electronic architecture behind the thrust stand. The software and hardware of the system will be covered, as well as the how to use the system safely and correctly. Experimental thrust data of a C6 solid propellant motor is also compared to a referenced model.
 
-NOTE: This project must be handled with extreme caution, as it involves the ignition of a solid propellant motor. Keep humans and flammable objects away at a safe and large distance when the stand is under operation. Do not operate in small spaces. Tests for this project were conducted in open spaces with special permission.
+**WARNING: This project is solely for educational purposes. Everything in this project must be handled with EXTREME caution, as it involves the ignition of a solid propellant motor. Keep humans and flammable objects away at a safe and large distance when the stand is under operation. Do not operate in small spaces. Tests for this project were conducted in open spaces with special permission. I am not responsible for any damages or injuries.**
 
 ## Software-and-Hardware-Required
 
@@ -28,12 +28,14 @@ Arduino IDE
 3. RF69 Radio Reciever/Transmitter
 4. SD Card Breakout Board
 5. Igniter (Any low-ohm resistor is fine)
-6. 50-100 kg Load Cell
+6. 10-50 kg Load Cell (depending on your rocket motor specifications)
 7. PCB or Breadboards with Jumper wires
 
 ## How-To-Use
 
-#### Wiring
+#### General Schematic
+
+![Image](Thrust Stand Schematic.png)
 
 #### Protocol
 
